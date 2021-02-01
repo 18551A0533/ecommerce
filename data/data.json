@@ -1,0 +1,33 @@
+{ 
+  "mobiles":[
+  	{
+      "name":"oneplus nord",
+      "image":"img/1.jpg",
+      "originalPrice":45000,
+      "price":33000
+
+  	},{
+  		"name":"samsung m31",
+        "image":"img/2.jpg",
+        "originalPrice":20000,
+        "price":18000
+  	},{
+  		"name":"realme 5 pro",
+        "image":"img/3.jpg",
+        "originalPrice":20000,
+        "price":17000
+  	},{
+  		"name":"vivo v20",
+        "image":"img/4.jpg",
+        "originalPrice":25000,
+        "price":21000
+  	},{
+  		"name":"redme note5pro", 
+        "image":"img/5.jpg",
+        "originalPrice":15000,
+        "price":13000
+  	}
+
+  ]
+
+}
